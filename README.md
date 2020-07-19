@@ -1,4 +1,4 @@
-![header](1500x500.jpeg)
+![header](https://github.com/shivenigma/shivenigma/blob/master/1500x500.jpeg)
 ### Hi there 👋
 
 <!--
