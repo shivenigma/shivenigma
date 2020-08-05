@@ -6,8 +6,6 @@
 - PHP
 - HTML & CSS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenigma](https://github.com/anuraghazra/github-readme-stats)
-
 #### I am currently learning
 - Rust
 - Blogging
@@ -27,3 +25,5 @@
 - [Goodreads](https://www.goodreads.com/user/show/34664873-vignesh)
 - [last.fm](https://www.last.fm/user/vigneshms)
 - [steam](https://steamcommunity.com/id/shivenigma/)
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=shivenigma)](https://github.com/anuraghazra/github-readme-stats)
