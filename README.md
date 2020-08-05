@@ -1,12 +1,13 @@
 ![header](https://github.com/shivenigma/shivenigma/blob/master/1500x500.jpeg)
 ### Hello, I am a self-taught software developer from India 🇮🇳
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=shivenigma&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/shivenigma?tab=repositories)
-
+[![Status](https://github-readme-stats.vercel.app/api?username=shivenigma&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)](https://github.com/shivenigma?tab=repositories)
 #### I am familiar with
 - Javascript
 - PHP
 - HTML & CSS
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenigma&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 #### I am currently learning
 - Rust
