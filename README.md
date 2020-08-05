@@ -1,6 +1,8 @@
 ![header](https://github.com/shivenigma/shivenigma/blob/master/1500x500.jpeg)
 ### Hello, I am a self-taught software developer from India 🇮🇳
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=shivenigma)](https://github.com/shivenigma?tab=repositories)
+
 #### I am familiar with
 - Javascript
 - PHP
@@ -25,5 +27,3 @@
 - [Goodreads](https://www.goodreads.com/user/show/34664873-vignesh)
 - [last.fm](https://www.last.fm/user/vigneshms)
 - [steam](https://steamcommunity.com/id/shivenigma/)
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=shivenigma)]()
