@@ -6,7 +6,7 @@
 - PHP
 - HTML & CSS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenigma]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenigma](https://github.com/anuraghazra/github-readme-stats)
 
 #### I am currently learning
 - Rust
