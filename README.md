@@ -26,4 +26,4 @@
 - [last.fm](https://www.last.fm/user/vigneshms)
 - [steam](https://steamcommunity.com/id/shivenigma/)
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=shivenigma)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=shivenigma)]()
