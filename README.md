@@ -16,7 +16,6 @@
 
 #### Currently working 
 - A full-time job at a Software Agency, Chennai.
-- [WhereAmI.dev](https://whereami.dev)
 
 #### Find me here
 - [Blog](https://vikky.dev/blog)
