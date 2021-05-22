@@ -12,7 +12,7 @@
 #### I am currently learning
 - Rust
 - Blogging
-- Digital marketing and related stuff
+- Data Structures and Algorithms
 
 #### Currently working 
 - A full-time job at a Software Agency, Chennai.
