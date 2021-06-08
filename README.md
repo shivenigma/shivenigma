@@ -18,7 +18,7 @@
 - A full-time job at a Software Agency, Chennai.
 
 #### Find me here
-- [Blog](https://vikky.dev/blog)
+- [Website](https://vikky.dev/  )
 - [LinkedIn](https://www.linkedin.com/in/shivenigma/)
 - [Twitter](twitter.com/shivenigma)
 - [Stackoverflow](https://stackoverflow.com/users/3098872/vignesh)
