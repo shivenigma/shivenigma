@@ -22,8 +22,4 @@
 - [LinkedIn](https://www.linkedin.com/in/shivenigma/)
 - [Twitter](twitter.com/shivenigma)
 - [Stackoverflow](https://stackoverflow.com/users/3098872/vignesh)
-- [IndieHackers](https://www.indiehackers.com/ShivEnigma/)
-- [Quora](https://www.quora.com/profile/Vignesh-M-729)
 - [Goodreads](https://www.goodreads.com/user/show/34664873-vignesh)
-- [last.fm](https://www.last.fm/user/vigneshms)
-- [steam](https://steamcommunity.com/id/shivenigma/)
