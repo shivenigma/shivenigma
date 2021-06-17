@@ -10,9 +10,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenigma&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 #### I am currently learning
-- Rust
+- [Rust](https://vikky.dev/rust-learning-quest-1)
 - Blogging
-- Data Structures and Algorithms
+- [Data Structures and Algorithms](https://vikky.dev/learning-cs-arrays)
 
 #### Currently working 
 - A full-time job at a Software Agency, Chennai.
