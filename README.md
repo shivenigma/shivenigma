@@ -11,7 +11,6 @@
 
 #### I am currently learning
 - [Rust](https://vikky.dev/rust-learning-quest-1)
-- Blogging
 - [Data Structures and Algorithms](https://vikky.dev/learning-cs-arrays)
 
 #### Currently working 
