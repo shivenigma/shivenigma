@@ -14,7 +14,7 @@
 - [Data Structures and Algorithms](https://vikky.dev/learning-cs-arrays)
 
 #### Currently working 
-- A full-time job at a Software Agency, Chennai.
+- Acting as a squad lead for DPJ at Bayer, Bengaluru.
 
 #### Find me here
 - [Website](https://vikky.dev/  )
